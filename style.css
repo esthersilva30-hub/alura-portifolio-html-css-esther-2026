@@ -1,1 +1,32 @@
+body{
+  background: #4A2C2A;
+  strong{
+    color: #FFD7A1;
+  }
+  h1{
+    color: #FFD7A1;
+    text-align: center;
+    span{
+      border: 1px solid;
+      padding: 10px;
+    }
+  }
+    p{
+      text-align: center;
+    }
+    img{
+      display: block;
+      width: 100%;
+      height: auto;
+      max-width: 600px;
+      magin-left: auto;
+      mrgin-right: auto;
+    }
+    footer{
+      text-align: center;
+      strong{
+        color: #FFD7A1;
+      }
+    }
+  }
 
